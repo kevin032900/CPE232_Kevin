@@ -1,2 +1,0 @@
-Hi World!
-by Kevin.
